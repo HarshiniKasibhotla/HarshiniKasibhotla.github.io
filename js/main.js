@@ -79,7 +79,7 @@ $(document).ready(function() {
   
     $(function() {
       typed.typed({
-        strings: ["Harshini Kasibhotla"],
+        strings: ["Raja Harshini Kasibhotla"],
         typeSpeed: 150,
         loop: true,
       });
